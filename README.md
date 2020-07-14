@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently working on Arabic Natural Language processing
+- 💬 Ask me about arabic NLP
+- 👯 I’m looking to collaborate on Arabic NLP
+
+
 
 <!--
 **linuxscout/linuxscout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
