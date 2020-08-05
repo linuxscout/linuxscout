@@ -13,7 +13,13 @@
 [<img align="left" alt="linuxscout | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](http://twitter.com/linuxscout)
 [<img align="left" alt="linuxscout | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/tahazerrouki/)
 
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [مقال: الدكتور #طه_زروقي .. مرجع البرمجيات مفتوحة المصدر للّغة العربية](https://tahadz.wordpress.com/2020/07/22/%d9%85%d9%82%d8%a7%d9%84-%d8%a7%d9%84%d8%af%d9%83%d8%aa%d9%88%d8%b1-%d8%b7%d9%87_%d8%b2%d8%b1%d9%88%d9%82%d9%8a-%d9%85%d8%b1%d8%ac%d8%b9-%d8%a7%d9%84%d8%a8%d8%b1%d9%85%d8%ac%d9%8a%d8%a7%d8%aa/)
+- [تصريح الدكتور رياض بغدادي](https://tahadz.wordpress.com/2020/07/22/%d8%aa%d8%b5%d8%b1%d9%8a%d8%ad-%d8%a7%d9%84%d8%af%d9%83%d8%aa%d9%88%d8%b1-%d8%b1%d9%8a%d8%a7%d8%b6-%d8%a8%d8%ba%d8%af%d8%a7%d8%af%d9%8a/)
+- [أدوات برمجية مفتوحة لخدمة اللغة العربية](https://tahadz.wordpress.com/2020/07/22/%d8%a3%d8%af%d9%88%d8%a7%d8%aa-%d8%a8%d8%b1%d9%85%d8%ac%d9%8a%d8%a9-%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%84%d8%ae%d8%af%d9%85%d8%a9-%d8%a7%d9%84%d9%84%d8%ba%d8%a9-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8/)
+- [دور المصادر المفتوحة في أبحاث اللسانيات الحاسوبية العربية](https://tahadz.wordpress.com/2020/07/22/%d8%af%d9%88%d8%b1-%d8%a7%d9%84%d9%85%d8%b5%d8%a7%d8%af%d8%b1-%d8%a7%d9%84%d9%85%d9%81%d8%aa%d9%88%d8%ad%d8%a9-%d9%81%d9%8a-%d8%a3%d8%a8%d8%ad%d8%a7%d8%ab-%d8%a7%d9%84%d9%84%d8%b3%d8%a7%d9%86%d9%8a/)
+- [تقرير |علامي عن مشروع المنطيق](https://tahadz.wordpress.com/2020/07/12/%d8%aa%d9%82%d8%b1%d9%8a%d8%b1-%d8%b9%d9%84%d8%a7%d9%85%d9%8a-%d8%b9%d9%86-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%a7%d9%84%d9%85%d9%86%d8%b7%d9%8a%d9%82/)
+<!-- BLOG-POST-LIST:END -->
 
 <!--
 **linuxscout/linuxscout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
