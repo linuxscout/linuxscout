@@ -12,6 +12,8 @@
 [<img align="left" alt="linuxscout | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UC2UFjiMr6DeZkJtYYHZpEdw)
 [<img align="left" alt="linuxscout | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](http://twitter.com/linuxscout)
 [<img align="left" alt="linuxscout | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/tahazerrouki/)
+<br />
+<br />
 
 # Blog posts
 <!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
