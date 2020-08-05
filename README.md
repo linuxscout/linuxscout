@@ -26,6 +26,7 @@
 <!-- BLOG-POST-LIST:END -->
 </div>
 
+
 ### YouTube latest videos
 <!-- YOUTUBE:START -->
 - [تجربة تطبيق اسمعني للصم البكم](https://www.youtube.com/watch?v=8aTfj6u0go4)
@@ -35,7 +36,10 @@
 - [كيف تساهم في مشروع مفتوح المصدر-](https://www.youtube.com/watch?v=xeYXIzXqlFo)
 <!-- YOUTUBE:END -->
 
+### Github Stats
+[![Linuxscout's github stats](https://github-readme-stats.vercel.app/api?username=linuxscout&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linuxscout&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **linuxscout/linuxscout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
