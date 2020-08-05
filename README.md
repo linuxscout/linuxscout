@@ -28,6 +28,11 @@
 
 ### YouTube latest videos
 <!-- YOUTUBE:START -->
+- [تجربة تطبيق اسمعني للصم البكم](https://www.youtube.com/watch?v=8aTfj6u0go4)
+- [دور المصادر المفتوحة في أبحاث اللسانيات الحاسوبية العربية](https://www.youtube.com/watch?v=i37-9Lh79Ww)
+- [أدوات برمجية مفتوحة لخدمة اللغة العربية](https://www.youtube.com/watch?v=k2hHJ6r_abM)
+- [أدوات برمجية مجانية لخدمة اللغة العربية](https://www.youtube.com/watch?v=0q1ldGS9_Wc)
+- [كيف تساهم في مشروع مفتوح المصدر-](https://www.youtube.com/watch?v=xeYXIzXqlFo)
 <!-- YOUTUBE:END -->
 
 
