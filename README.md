@@ -29,11 +29,11 @@
 
 ### YouTube latest videos
 <!-- YOUTUBE:START -->
-- [Traitement automatique des langues: P1 Introduction](https://www.youtube.com/watch?v=EJLlde5S8_E)
-- [تجربة تطبيق اسمعني للصم البكم](https://www.youtube.com/watch?v=8aTfj6u0go4)
-- [دور المصادر المفتوحة في أبحاث اللسانيات الحاسوبية العربية](https://www.youtube.com/watch?v=i37-9Lh79Ww)
-- [أدوات برمجية مفتوحة لخدمة اللغة العربية](https://www.youtube.com/watch?v=k2hHJ6r_abM)
-- [أدوات برمجية مجانية لخدمة اللغة العربية](https://www.youtube.com/watch?v=0q1ldGS9_Wc)
+- [Traitement automatique des langues : P6 -niveau lexical - Morphologie flexionnelle](https://www.youtube.com/watch?v=4bYOg2HXt-Q)
+- [Traitement automatique des langues : P5 -niveau lexical - Lemmatisation](https://www.youtube.com/watch?v=_iTqexU6tgA)
+- [Traitement automatique des langues : P4 -Codage des caractères(suite)](https://www.youtube.com/watch?v=rW0ZnMBh1E8)
+- [Traitement automatique des langues p3 unicode p1](https://www.youtube.com/watch?v=T2L5o4bgdtM)
+- [Traitement automatique des langues: P2, Introduction, (suite)](https://www.youtube.com/watch?v=0XafUw1ynMY)
 <!-- YOUTUBE:END -->
 
 ### Github Stats
