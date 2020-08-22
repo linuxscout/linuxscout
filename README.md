@@ -29,11 +29,11 @@
 
 ### YouTube latest videos
 <!-- YOUTUBE:START -->
+- [Traitement automatique des langues : P10 -niveau syntaxique – exercices](https://www.youtube.com/watch?v=0JowQeMNRNU)
+- [Traitement automatique des langues : P9 -niveau syntaxique – arbre syntaxique](https://www.youtube.com/watch?v=4LqLAEQJLV4)
+- [Traitement automatique des langues : P8 -niveau lexical - Traits grammaticaux](https://www.youtube.com/watch?v=D7_OFc6ZJoA)
+- [Traitement automatique des langues : P7 -niveau lexical - Morphologie dérivationelle](https://www.youtube.com/watch?v=xpF3K2Z43js)
 - [Traitement automatique des langues : P6 -niveau lexical - Morphologie flexionnelle](https://www.youtube.com/watch?v=4bYOg2HXt-Q)
-- [Traitement automatique des langues : P5 -niveau lexical - Lemmatisation](https://www.youtube.com/watch?v=_iTqexU6tgA)
-- [Traitement automatique des langues : P4 -Codage des caractères(suite)](https://www.youtube.com/watch?v=rW0ZnMBh1E8)
-- [Traitement automatique des langues p3 unicode p1](https://www.youtube.com/watch?v=T2L5o4bgdtM)
-- [Traitement automatique des langues: P2, Introduction, (suite)](https://www.youtube.com/watch?v=0XafUw1ynMY)
 <!-- YOUTUBE:END -->
 
 ### Github Stats
