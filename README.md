@@ -29,11 +29,11 @@
 
 ### YouTube latest videos
 <!-- YOUTUBE:START -->
+- [Gestion des  Données Multimédia : TP n°2 – Excif+PHP](https://www.youtube.com/watch?v=Ur2ma6RtdYc)
+- [Gestion des  Données Multimédia : TP n° 1 : TP n°1 – Images dans MySQL + PHP partie 2](https://www.youtube.com/watch?v=CP4a0dWMF8Y)
+- [Gestion des  Données Multimédia : TP n° 1 : TP n°1 – Images dans MySQL + PHP-partie 1](https://www.youtube.com/watch?v=VGH2hK74WR0)
 - [Traitement automatique des langues : P10 -niveau syntaxique – exercices](https://www.youtube.com/watch?v=0JowQeMNRNU)
 - [Traitement automatique des langues : P9 -niveau syntaxique – arbre syntaxique](https://www.youtube.com/watch?v=4LqLAEQJLV4)
-- [Traitement automatique des langues : P8 -niveau lexical - Traits grammaticaux](https://www.youtube.com/watch?v=D7_OFc6ZJoA)
-- [Traitement automatique des langues : P7 -niveau lexical - Morphologie dérivationelle](https://www.youtube.com/watch?v=xpF3K2Z43js)
-- [Traitement automatique des langues : P6 -niveau lexical - Morphologie flexionnelle](https://www.youtube.com/watch?v=4bYOg2HXt-Q)
 <!-- YOUTUBE:END -->
 
 ### Github Stats
