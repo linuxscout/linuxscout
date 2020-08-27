@@ -18,7 +18,7 @@
 <div dir="rtl">
 
 <!-- BLOG-POST-LIST:START -->
-- [إضافة وظيفة استرجاع الأصل لمكتبة القلصادي للتحليل الصرفي Lemmatization](https://tahadz.wordpress.com/2020/08/27/%d8%a5%d8%b6%d8%a7%d9%81%d8%a9-%d9%88%d8%b8%d9%8a%d9%81%d8%a9-%d8%a7%d8%b3%d8%aa%d8%b1%d8%ac%d8%a7%d8%b9-%d8%a7%d9%84%d8%a3%d8%b5%d9%84-%d9%84%d9%85%d9%83%d8%aa%d8%a8%d8%a9-%d8%a7%d9%84%d9%82%d9%84/)
+- [إضافة وظيفة استرجاع الأصل لمكتبة القلصادي للتحليل الصرفي Lemmatization](https://tahadz.wordpress.com/2020/08/27/qalsadi-lemmatizer/)
 - [مكتبة أدوات النصوص العربية -بيثون](https://tahadz.wordpress.com/2020/08/11/adawatlib/)
 - [مكتبة الرّند لتوليد النصوص العشوائية](https://tahadz.wordpress.com/2020/08/10/arrand/)
 - [إطلاق مكتبة تشكيل النصوص العربية للغة بيثون](https://tahadz.wordpress.com/2020/08/10/mishkallib/)
