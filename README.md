@@ -29,11 +29,11 @@
 
 ### YouTube latest videos
 <!-- YOUTUBE:START -->
+- [Traitement automatique des langues : P10 -niveau syntaxique – X Bar](https://www.youtube.com/watch?v=OX3ZiFCfueU)
 - [Gestion des  Données Multimédia : TP n°5 – Python Pillow lib](https://www.youtube.com/watch?v=2DejpGUSIUI)
 - [Gestion des  Données Multimédia : TP n°4 – MySQL fullText partie2](https://www.youtube.com/watch?v=_G-130p4CMc)
 - [Gestion des  Données Multimédia : TP n°4 – MySQL fullText- partie1](https://www.youtube.com/watch?v=f6Ps_7wjS9M)
 - [Gestion des  Données Multimédia : TP n°3 – GD lib+PHP  partie2](https://www.youtube.com/watch?v=SocoYR22o4Y)
-- [Gestion des  Données Multimédia : TP n°3 – GD lib+PHP- partie1](https://www.youtube.com/watch?v=Ai0we3x39RQ)
 <!-- YOUTUBE:END -->
 
 ### Github Stats
