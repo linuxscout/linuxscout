@@ -29,11 +29,11 @@
 
 ### YouTube latest videos
 <!-- YOUTUBE:START -->
-- [Arabic َLanguageTool الجزء الثاني- تطوير البرنامج والمساهمة فيه](https://www.youtube.com/watch?v=SLhGDvVN3q0)
+- [دعم العربية في برنامج LanguageTool للتدقيق النحوي-الجزء الأول](https://www.youtube.com/watch?v=PEm91guIMko)
+- [دعم العربية في برنامج LanguageTool للتدقيق النحوي-الجزء الثاني- تطوير ومساهمة](https://www.youtube.com/watch?v=SLhGDvVN3q0)
 - [Traitement automatique des langues : P10 -niveau syntaxique – X Bar](https://www.youtube.com/watch?v=OX3ZiFCfueU)
 - [Gestion des  Données Multimédia : TP n°5 – Python Pillow lib](https://www.youtube.com/watch?v=2DejpGUSIUI)
 - [Gestion des  Données Multimédia : TP n°4 – MySQL fullText partie2](https://www.youtube.com/watch?v=_G-130p4CMc)
-- [Gestion des  Données Multimédia : TP n°4 – MySQL fullText- partie1](https://www.youtube.com/watch?v=f6Ps_7wjS9M)
 <!-- YOUTUBE:END -->
 
 ### Github Stats
