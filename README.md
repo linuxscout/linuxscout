@@ -4,7 +4,7 @@
 - 💬 Ask me about arabic NLP
 - 👯 I’m looking to collaborate on Arabic NLP
 - 🤔 I’m looking for help with Andoroid and IOS applications
-- 🥅 2020 Goals: Contribute more to Open Source projects ( LanguageTool, Festival Arabic TTS)
+- 🥅 2021 Goals: Contribute more to Open Source projects ( LanguageTool, Festival Arabic TTS)
 
 ### Connect with me:
 
