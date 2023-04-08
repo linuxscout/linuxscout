@@ -18,11 +18,11 @@
 <div dir="rtl">
 
 <!-- BLOG-POST-LIST:START -->
-- [كيف تساهم في مشروع التدقيق النحوي؟](https://tahadz.wordpress.com/2020/10/15/%d9%83%d9%8a%d9%81-%d8%aa%d8%b3%d8%a7%d9%87%d9%85-%d9%81%d9%8a-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%a7%d9%84%d8%aa%d8%af%d9%82%d9%8a%d9%82-%d8%a7%d9%84%d9%86%d8%ad%d9%88%d9%8a%d8%9f/)
-- [إضافة وظيفة استرجاع الأصل لمكتبة القلصادي للتحليل الصرفي Lemmatization](https://tahadz.wordpress.com/2020/08/27/qalsadi-lemmatizer/)
-- [مكتبة أدوات النصوص العربية -بيثون](https://tahadz.wordpress.com/2020/08/11/adawatlib/)
-- [مكتبة الرّند لتوليد النصوص العشوائية](https://tahadz.wordpress.com/2020/08/10/arrand/)
-- [إطلاق مكتبة تشكيل النصوص العربية للغة بيثون](https://tahadz.wordpress.com/2020/08/10/mishkallib/)
+- [إصدار تجريبي لبرنامج ألعاب الأطفال Gcompris](https://tahadz.wordpress.com/2023/04/08/%d8%a5%d8%b5%d8%af%d8%a7%d8%b1-%d8%aa%d8%ac%d8%b1%d9%8a%d8%a8%d9%8a-%d9%84%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac-%d8%a3%d9%84%d8%b9%d8%a7%d8%a8-%d8%a7%d9%84%d8%a3%d8%b7%d9%81%d8%a7%d9%84-gcompris/)
+- [يوم دراسي  حول تهيئة المدونات لتطوير أدوات التحليل المعجمي](https://tahadz.wordpress.com/2022/12/23/%d9%8a%d9%88%d9%85-%d8%af%d8%b1%d8%a7%d8%b3%d9%8a-%d8%ad%d9%88%d9%84-%d8%aa%d9%87%d9%8a%d8%a6%d8%a9-%d8%a7%d9%84%d9%85%d8%af%d9%88%d9%86%d8%a7%d8%aa-%d9%84%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%a3%d8%af/)
+- [محاضرة عن الترويج لمنتجات البحث](https://tahadz.wordpress.com/2022/12/23/%d9%85%d8%ad%d8%a7%d8%b6%d8%b1%d8%a9-%d8%b9%d9%86-%d8%a7%d9%84%d8%aa%d8%b1%d9%88%d9%8a%d8%ac-%d9%84%d9%85%d9%86%d8%aa%d8%ac%d8%a7%d8%aa-%d8%a7%d9%84%d8%a8%d8%ad%d8%ab/)
+- [تقنين الترقيع](https://tahadz.wordpress.com/2022/10/23/%d8%aa%d9%82%d9%86%d9%8a%d9%86-%d8%a7%d9%84%d8%aa%d8%b1%d9%82%d9%8a%d8%b9/)
+- [كناشتي: تطبيق ذكي للبحث في المصطلحات](https://tahadz.wordpress.com/2021/10/25/konashati/)
 <!-- BLOG-POST-LIST:END -->
 </div>
 
