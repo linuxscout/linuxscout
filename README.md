@@ -29,11 +29,11 @@
 
 ### YouTube latest videos
 <!-- YOUTUBE:START -->
+- [تجربة التصحيح التلقائي غلطاوي على LibreOffice](https://www.youtube.com/watch?v=BD6Clh5rT7Q)
+- [المخيم الكشفي السادس سيدي غيلاس 2008- فوج السلام](https://www.youtube.com/watch?v=-pkPy0TgL_U)
+- [رحلة كشفية - إلى تلمسان- فوج السلام الخبوزية 2012](https://www.youtube.com/watch?v=qAAZvS1tQnY)
+- [4 أفريل، 2022](https://www.youtube.com/watch?v=PMdeYLnvi-A)
 - [دعم العربية في برنامج LanguageTool للتدقيق النحوي-الجزء الأول](https://www.youtube.com/watch?v=PEm91guIMko)
-- [ج2- دعم العربية في برنامج LanguageTool للتدقيق النحوي-الجزء الثاني- تطوير ومساهمة](https://www.youtube.com/watch?v=SLhGDvVN3q0)
-- [Traitement automatique des langues : P10 -niveau syntaxique – X Bar](https://www.youtube.com/watch?v=OX3ZiFCfueU)
-- [Gestion des  Données Multimédia : TP n°5 – Python Pillow lib](https://www.youtube.com/watch?v=2DejpGUSIUI)
-- [Gestion des  Données Multimédia : TP n°4 – MySQL fullText partie2](https://www.youtube.com/watch?v=_G-130p4CMc)
 <!-- YOUTUBE:END -->
 
 ### Github Stats
