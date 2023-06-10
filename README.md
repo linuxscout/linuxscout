@@ -18,11 +18,11 @@
 <div dir="rtl">
 
 <!-- BLOG-POST-LIST:START -->
+- [تصميم تطبيق لا يجعلك ثريّا](https://tahadz.wordpress.com/2023/06/10/%d8%aa%d8%b5%d9%85%d9%8a%d9%85-%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-%d9%84%d8%a7-%d9%8a%d8%ac%d8%b9%d9%84%d9%83-%d8%ab%d8%b1%d9%8a%d9%91%d8%a7/)
 - [جديد، تطبيق قطرب لتصريف الأفعال](https://tahadz.wordpress.com/2023/05/14/%d8%ac%d8%af%d9%8a%d8%af%d8%8c-%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-%d9%82%d8%b7%d8%b1%d8%a8-%d9%84%d8%aa%d8%b5%d8%b1%d9%8a%d9%81-%d8%a7%d9%84%d8%a3%d9%81%d8%b9%d8%a7%d9%84/)
 - [إصدار معدلي 2.0](https://tahadz.wordpress.com/2023/04/08/%d8%a5%d8%b5%d8%af%d8%a7%d8%b1-%d9%85%d8%b9%d8%af%d9%84%d9%8a-2-0/)
 - [إصدار تجريبي لبرنامج ألعاب الأطفال Gcompris](https://tahadz.wordpress.com/2023/04/08/%d8%a5%d8%b5%d8%af%d8%a7%d8%b1-%d8%aa%d8%ac%d8%b1%d9%8a%d8%a8%d9%8a-%d9%84%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac-%d8%a3%d9%84%d8%b9%d8%a7%d8%a8-%d8%a7%d9%84%d8%a3%d8%b7%d9%81%d8%a7%d9%84-gcompris/)
 - [تطبيق الرديف: قاموس المترادفات والأضداد وجموع التكسير والقوافي](https://tahadz.wordpress.com/2023/03/08/%d8%aa%d8%b7%d8%a8%d9%8a%d9%82-%d8%a7%d9%84%d8%b1%d8%af%d9%8a%d9%81-%d9%82%d8%a7%d9%85%d9%88%d8%b3-%d8%a7%d9%84%d9%85%d8%aa%d8%b1%d8%a7%d8%af%d9%81%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d8%a3%d8%b6%d8%af/)
-- [يوم دراسي  حول تهيئة المدونات لتطوير أدوات التحليل المعجمي](https://tahadz.wordpress.com/2022/12/23/%d9%8a%d9%88%d9%85-%d8%af%d8%b1%d8%a7%d8%b3%d9%8a-%d8%ad%d9%88%d9%84-%d8%aa%d9%87%d9%8a%d8%a6%d8%a9-%d8%a7%d9%84%d9%85%d8%af%d9%88%d9%86%d8%a7%d8%aa-%d9%84%d8%aa%d8%b7%d9%88%d9%8a%d8%b1-%d8%a3%d8%af/)
 <!-- BLOG-POST-LIST:END -->
 </div>
 
