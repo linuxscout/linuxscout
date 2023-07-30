@@ -9,12 +9,23 @@
 ### Connect with me:
 
 [<img align="left" alt="tahadz.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://tahadz.com)
-[<img align="left" alt="linuxscout | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UC2UFjiMr6DeZkJtYYHZpEdw)
+[<img align="left" alt="linuxscout | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/@taha.zerrouki)
 [<img align="left" alt="linuxscout | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](http://twitter.com/linuxscout)
 [<img align="left" alt="linuxscout | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/tahazerrouki/)
 <br />
 <br />
+
+### Download stats
+* PyArabic: ![downloads](https://img.shields.io/pypi/dm/PyArabic?style=plastic)
+* Tashaphyne: ![downloads](https://img.shields.io/pypi/dm/tashaphyne?style=plastic)
+* Qalsadi: ![downloads](https://img.shields.io/pypi/dm/qalsadi?style=plastic)
+* Adawat: ![downloads](https://img.shields.io/pypi/dm/adawat?style=plastic)
+* Mishkal : [![downloads]( https://img.shields.io/sourceforge/dt/mishkal.svg)](http://sourceforge.org/projects/mishkal)
+
+
 ### تدوينات
+
+
 <div dir="rtl">
 
 <!-- BLOG-POST-LIST:START -->
