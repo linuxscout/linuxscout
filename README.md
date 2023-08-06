@@ -40,11 +40,11 @@
 
 ### YouTube latest videos
 <!-- YOUTUBE:START -->
+- [تطبيق قطرب لتعريف الأفعال العربية](https://www.youtube.com/watch?v=ybPoI091ECA)
 - [تجربة التصحيح التلقائي غلطاوي على LibreOffice](https://www.youtube.com/watch?v=BD6Clh5rT7Q)
 - [المخيم الكشفي السادس سيدي غيلاس 2008- فوج السلام](https://www.youtube.com/watch?v=-pkPy0TgL_U)
 - [رحلة كشفية - إلى تلمسان- فوج السلام الخبوزية 2012](https://www.youtube.com/watch?v=qAAZvS1tQnY)
 - [4 أفريل، 2022](https://www.youtube.com/watch?v=PMdeYLnvi-A)
-- [دعم العربية في برنامج LanguageTool للتدقيق النحوي-الجزء الأول](https://www.youtube.com/watch?v=PEm91guIMko)
 <!-- YOUTUBE:END -->
 
 ### Github Stats
