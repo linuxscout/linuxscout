@@ -40,7 +40,7 @@
 
 ### YouTube latest videos
 <!-- YOUTUBE:START -->
-- [محاضرة رقم 0  ترحيبية المحاضرة الافتتاحية للسنة الأولى إعلام آلي ورياضيات 2023-2024](https://www.youtube.com/watch?v=wlWjzWSX7nM)
+- [المحاضرة الافتتاحية للسنة الأولى إعلام آلي ورياضيات 2023-2024](https://www.youtube.com/watch?v=wlWjzWSX7nM)
 - [تطبيق قطرب لتصريف الأفعال العربية](https://www.youtube.com/watch?v=ybPoI091ECA)
 - [تجربة التصحيح التلقائي غلطاوي على LibreOffice](https://www.youtube.com/watch?v=BD6Clh5rT7Q)
 - [المخيم الكشفي السادس سيدي غيلاس 2008- فوج السلام](https://www.youtube.com/watch?v=-pkPy0TgL_U)
