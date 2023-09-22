@@ -29,11 +29,11 @@
 <div dir="rtl">
 
 <!-- BLOG-POST-LIST:START -->
+- [إطلاق كتاب بنية الآلة Structure Machine 1 &lpar;عربي/إنجليزي&rpar;](https://tahadz.wordpress.com/2023/09/22/%d8%a5%d8%b7%d9%84%d8%a7%d9%82-%d9%83%d8%aa%d8%a7%d8%a8-%d8%a8%d9%86%d9%8a%d8%a9-%d8%a7%d9%84%d8%a2%d9%84%d8%a9-structure-machine-1-%d8%b9%d8%b1%d8%a8%d9%8a-%d8%a5%d9%86%d8%ac%d9%84%d9%8a%d8%b2%d9%8a/)
 - [لعبة الرديف](https://tahadz.wordpress.com/2023/08/09/%d9%84%d8%b9%d8%a8%d8%a9-%d8%a7%d9%84%d8%b1%d8%af%d9%8a%d9%81/)
 - [Journée de l’Étudiant, Transformation numérique en Algérie : Un choix irréversible](https://tahadz.wordpress.com/2023/06/11/journee-de-letudiant-transformation-numerique-en-algerie-un-choix-irreversible/)
 - [الذّكاء الاصطناعي..ضمانة السيّادة الرقمية](https://tahadz.wordpress.com/2023/06/11/%d8%a7%d9%84%d8%b0%d9%91%d9%83%d8%a7%d8%a1-%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a-%d8%b6%d9%85%d8%a7%d9%86%d8%a9-%d8%a7%d9%84%d8%b3%d9%8a%d9%91%d8%a7%d8%af%d8%a9-%d8%a7%d9%84%d8%b1/)
 - [الإصدار الرسمي من برنامج الألعاب التعليمية GCompris، بدعم العربية](https://tahadz.wordpress.com/2023/06/10/%d8%a7%d9%84%d8%a5%d8%b5%d8%af%d8%a7%d8%b1-%d8%a7%d9%84%d8%b1%d8%b3%d9%85%d9%8a-%d9%85%d9%86-%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac-%d8%a7%d9%84%d8%a3%d9%84%d8%b9%d8%a7%d8%a8-%d8%a7%d9%84%d8%aa%d8%b9/)
-- [تحديث كتاب بنية الآلة Structure Machine 2](https://tahadz.wordpress.com/2023/06/10/%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-%d9%83%d8%aa%d8%a7%d8%a8-%d8%a8%d9%86%d9%8a%d8%a9-%d8%a7%d9%84%d8%a2%d9%84%d8%a9-structure-machine-2/)
 <!-- BLOG-POST-LIST:END -->
 </div>
 
