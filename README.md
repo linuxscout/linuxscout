@@ -40,11 +40,11 @@
 
 ### YouTube latest videos
 <!-- YOUTUBE:START -->
-- [MTI chap1 proglang p1](https://www.youtube.com/watch?v=NpBpYq15pPY)
+- [منهجية البرمجة وتقنياتها : مقدمة  وتصنيفات لغات البرمجة ج2](https://www.youtube.com/watch?v=ELHl3n00sZI)
+- [منهجية البرمجة وتقنياتها : مقدمة  وتصنيفات لغات البرمجة ج1](https://www.youtube.com/watch?v=NpBpYq15pPY)
 - [Structure Machine 1- مقدّمة في المعلوماتية  &lpar;البرمجيات&rpar;-الجزء  3](https://www.youtube.com/watch?v=YsINXdut34o)
 - [Structure Machine 1- مقدّمة في المعلوماتية&lpar;الأجهزة&rpar; -الجزء 2](https://www.youtube.com/watch?v=73Iv_royyUM)
 - [Structure Machine 1- مقدّمة في المعلوماتية -الجزء 1](https://www.youtube.com/watch?v=QRfubWnJgVs)
-- [المحاضرة الافتتاحية للسنة الأولى إعلام آلي ورياضيات 2023-2024](https://www.youtube.com/watch?v=wlWjzWSX7nM)
 <!-- YOUTUBE:END -->
 
 ### Github Stats
