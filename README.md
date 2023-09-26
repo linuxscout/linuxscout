@@ -40,11 +40,11 @@
 
 ### YouTube latest videos
 <!-- YOUTUBE:START -->
+- [Structure Machine 1- ترميز المعلومات وتمثيلها -الجزء 2](https://www.youtube.com/watch?v=eBCHJHP_Caw)
+- [Structure Machine 1- ترميز المعلومات وتمثيلها -الجزء 1](https://www.youtube.com/watch?v=A7WHa3ImZL8)
 - [منهجية البرمجة وتقنياتها : مقدمة  وتصنيفات لغات البرمجة ج2](https://www.youtube.com/watch?v=ELHl3n00sZI)
 - [منهجية البرمجة وتقنياتها : مقدمة  وتصنيفات لغات البرمجة ج1](https://www.youtube.com/watch?v=NpBpYq15pPY)
 - [Structure Machine 1- مقدّمة في المعلوماتية  &lpar;البرمجيات&rpar;-الجزء  3](https://www.youtube.com/watch?v=YsINXdut34o)
-- [Structure Machine 1- مقدّمة في المعلوماتية&lpar;الأجهزة&rpar; -الجزء 2](https://www.youtube.com/watch?v=73Iv_royyUM)
-- [Structure Machine 1- مقدّمة في المعلوماتية -الجزء 1](https://www.youtube.com/watch?v=QRfubWnJgVs)
 <!-- YOUTUBE:END -->
 
 ### Github Stats
