@@ -40,11 +40,11 @@
 
 ### YouTube latest videos
 <!-- YOUTUBE:START -->
-- [Structure Machine 1- ترميز المعلومات وتمثيلها -الجزء 3.4: أنظمة التعداد تمارين](https://www.youtube.com/watch?v=S7vEMqiLgBo)
+- [Structure Machine 1- ترميز المعلومات وتمثيلها -الجزء 3.6: أنظمة التعداد تمارين](https://www.youtube.com/watch?v=L-DVGiy_sZA)
+- [Structure Machine 1- ترميز المعلومات وتمثيلها -الجزء 3.5: أنظمة التعداد تمارين](https://www.youtube.com/watch?v=Ha8e2Yo10SE)
 - [Structure Machine 1- ترميز المعلومات وتمثيلها -الجزء 3.3: أنظمة التعداد تمارين](https://www.youtube.com/watch?v=gG6uLLz16EE)
+- [Structure Machine 1- ترميز المعلومات وتمثيلها -الجزء 3.4: أنظمة التعداد تمارين](https://www.youtube.com/watch?v=S7vEMqiLgBo)
 - [Structure Machine 1- ترميز المعلومات وتمثيلها -الجزء 3.2: أنظمة التعداد تمارين](https://www.youtube.com/watch?v=GCQ3Pz3WR4s)
-- [Structure Machine 1- ترميز المعلومات وتمثيلها -الجزء 3.1: أنظمة التعداد تمارين](https://www.youtube.com/watch?v=iB8hgHokyC4)
-- [منهجية البرمجة وتقنياتها : مقدمة في لغة XML ج1](https://www.youtube.com/watch?v=5RhydoSKMaU)
 <!-- YOUTUBE:END -->
 
 ### Github Stats
