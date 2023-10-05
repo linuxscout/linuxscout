@@ -40,11 +40,11 @@
 
 ### YouTube latest videos
 <!-- YOUTUBE:START -->
-- [Structure Machine 1- ترميز المعلومات وتمثيلها -الجزء 3.7: أنظمة التعداد تمارين](https://www.youtube.com/watch?v=g_tzMgt7OpE)
-- [Structure Machine 1- ترميز المعلومات وتمثيلها -الجزء 4: أنظمة التعداد التحويلات في الثنائي](https://www.youtube.com/watch?v=epkuto7IqoQ)
-- [Structure Machine 1- ترميز المعلومات وتمثيلها -الجزء 3.6: أنظمة التعداد تمارين](https://www.youtube.com/watch?v=L-DVGiy_sZA)
-- [Structure Machine 1- ترميز المعلومات وتمثيلها -الجزء 3.5: أنظمة التعداد تمارين](https://www.youtube.com/watch?v=Ha8e2Yo10SE)
-- [Structure Machine 1- ترميز المعلومات وتمثيلها -الجزء 3.3: أنظمة التعداد تمارين](https://www.youtube.com/watch?v=gG6uLLz16EE)
+- [Structure Machine 1- ترميز المعلومات وتمثيلها -الجزء 3.13: أنظمة التعداد تمارين](https://www.youtube.com/watch?v=A1q2XPWEwS8)
+- [tructure Machine 1- ترميز المعلومات وتمثيلها -الجزء 3.12: أنظمة التعداد تمارين](https://www.youtube.com/watch?v=xTIqs_Kxgj8)
+- [tructure Machine 1- ترميز المعلومات وتمثيلها -الجزء 3.11: أنظمة التعداد تمارين](https://www.youtube.com/watch?v=akbkjh3PppU)
+- [tructure Machine 1- ترميز المعلومات وتمثيلها -الجزء 3.10: أنظمة التعداد تمارين](https://www.youtube.com/watch?v=MOEsuu8l524)
+- [Structure Machine 1- ترميز المعلومات وتمثيلها -الجزء 3.9: أنظمة التعداد تمارين](https://www.youtube.com/watch?v=7g8nRFyEKUo)
 <!-- YOUTUBE:END -->
 
 ### Github Stats
