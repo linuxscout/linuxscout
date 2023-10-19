@@ -40,11 +40,11 @@
 
 ### YouTube latest videos
 <!-- YOUTUBE:START -->
+- [Structure Machine 1- ترميز المعلومات وتمثيلها -الجزء  5.1: تمثيل الأعداد الموجبة](https://www.youtube.com/watch?v=HLAFxQ__aRc)
+- [Structure Machine 1- ترميز المعلومات وتمثيلها -الجزء4: الحساب في أنظمة التعداد](https://www.youtube.com/watch?v=9u9tzlFsQNE)
 - [Structure Machine 1- ترميز المعلومات وتمثيلها -الجزء 3.13: أنظمة التعداد تمارين](https://www.youtube.com/watch?v=A1q2XPWEwS8)
 - [tructure Machine 1- ترميز المعلومات وتمثيلها -الجزء 3.12: أنظمة التعداد تمارين](https://www.youtube.com/watch?v=xTIqs_Kxgj8)
 - [tructure Machine 1- ترميز المعلومات وتمثيلها -الجزء 3.11: أنظمة التعداد تمارين](https://www.youtube.com/watch?v=akbkjh3PppU)
-- [tructure Machine 1- ترميز المعلومات وتمثيلها -الجزء 3.10: أنظمة التعداد تمارين](https://www.youtube.com/watch?v=MOEsuu8l524)
-- [Structure Machine 1- ترميز المعلومات وتمثيلها -الجزء 3.9: أنظمة التعداد تمارين](https://www.youtube.com/watch?v=7g8nRFyEKUo)
 <!-- YOUTUBE:END -->
 
 ### Github Stats
