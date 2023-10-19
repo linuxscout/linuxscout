@@ -40,7 +40,7 @@
 
 ### YouTube latest videos
 <!-- YOUTUBE:START -->
-- [Structure Machine 1- ترميز المعلومات وتمثيلها -الجزء 5.1 :تمثيل الأعداد السالبة](https://www.youtube.com/watch?v=p4z59dX4vpY)
+- [Structure Machine 1- ترميز المعلومات وتمثيلها -الجزء 5.3 :تمثيل الأعداد السالبة](https://www.youtube.com/watch?v=p4z59dX4vpY)
 - [Structure Machine 1- ترميز المعلومات وتمثيلها -الجزء 5.2:تمثيل الأعداد السالبة](https://www.youtube.com/watch?v=wopQSAQ1MEc)
 - [Structure Machine 1- ترميز المعلومات وتمثيلها -الجزء  5.1: تمثيل الأعداد الموجبة](https://www.youtube.com/watch?v=HLAFxQ__aRc)
 - [Structure Machine 1- ترميز المعلومات وتمثيلها -الجزء4: الحساب في أنظمة التعداد](https://www.youtube.com/watch?v=9u9tzlFsQNE)
