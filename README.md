@@ -40,11 +40,11 @@
 
 ### YouTube latest videos
 <!-- YOUTUBE:START -->
+- [2023 10 24 16 24 21](https://www.youtube.com/watch?v=V5bAin0pTn4)
 - [Structure Machine 1- ترميز المعلومات وتمثيلها -الجزء 5.3 :تمثيل الأعداد السالبة](https://www.youtube.com/watch?v=p4z59dX4vpY)
 - [Structure Machine 1- ترميز المعلومات وتمثيلها -الجزء 5.2:تمثيل الأعداد السالبة](https://www.youtube.com/watch?v=wopQSAQ1MEc)
 - [Structure Machine 1- ترميز المعلومات وتمثيلها -الجزء  5.1: تمثيل الأعداد الموجبة](https://www.youtube.com/watch?v=HLAFxQ__aRc)
 - [Structure Machine 1- ترميز المعلومات وتمثيلها -الجزء4: الحساب في أنظمة التعداد](https://www.youtube.com/watch?v=9u9tzlFsQNE)
-- [Structure Machine 1- ترميز المعلومات وتمثيلها -الجزء 3.13: أنظمة التعداد تمارين](https://www.youtube.com/watch?v=A1q2XPWEwS8)
 <!-- YOUTUBE:END -->
 
 ### Github Stats
