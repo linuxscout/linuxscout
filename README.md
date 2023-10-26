@@ -40,11 +40,11 @@
 
 ### YouTube latest videos
 <!-- YOUTUBE:START -->
+- [Structure Machine 1- ترميز المعلومات وتمثيلها -الجزء 2.5:تمثيل الأعداد السالبة - تمارين](https://www.youtube.com/watch?v=iZl0m2dB8YQ)
+- [Structure Machine 1- ترميز المعلومات وتمثيلها -الجزء 1.5:تمثيل الأعداد الموجبة - تمارين](https://www.youtube.com/watch?v=BAcZCVZhKDw)
 - [منهجية البرمجة وتقنياتها : فصل Xml: الجزء 4-  XSL](https://www.youtube.com/watch?v=lNJEJeYs1dA)
 - [منهجية البرمجة وتقنياتها : فصل Xml: الجزء 5-XSD](https://www.youtube.com/watch?v=dW23vUO-IU4)
 - [منهجية البرمجة وتقنياتها : فصل Xml: الجزء 3- DTD](https://www.youtube.com/watch?v=dYDKgvnYF8w)
-- [منهجية البرمجة وتقنياتها : فصل Xml: الجزء 2- لغة XML](https://www.youtube.com/watch?v=k0E1GTmq_Sc)
-- [منهجية البرمجة وتقنياتها : فصل Xml: الجزء 6- DOM](https://www.youtube.com/watch?v=V5bAin0pTn4)
 <!-- YOUTUBE:END -->
 
 ### Github Stats
