@@ -40,11 +40,11 @@
 
 ### YouTube latest videos
 <!-- YOUTUBE:START -->
+- [Structure Machine 1-  excess3 ترميز المعلومات وتمثيلها -الجزء 8.2:تمثيل الأعداد](https://www.youtube.com/watch?v=0zlo9Q6OI4g)
+- [Structure Machine 1- ترميز المعلومات وتمثيلها -الجزء 6.2 :تمثيل الأعداد الحقيقية - تمارين](https://www.youtube.com/watch?v=URB8e9kztA4)
+- [Structure Machine 1- ترميز المعلومات وتمثيلها -الجزء8.1:تمثيل الأعداد  BCD](https://www.youtube.com/watch?v=8zqEbysmny8)
 - [Structure Machine 1- ترميز المعلومات وتمثيلها -الجزء 7.2:تمثيل الحروف يونيكود](https://www.youtube.com/watch?v=WsDa-B8SQ0Q)
 - [Structure Machine 1- ترميز المعلومات وتمثيلها -الجزء 7.1 : تمثيل الحروف الأسكي](https://www.youtube.com/watch?v=0Kc3XkCDE2E)
-- [Structure Machine 1- ترميز المعلومات وتمثيلها -الجزء 7:تمثيل الحروف](https://www.youtube.com/watch?v=QQIDRKbMC9M)
-- [Structure Machine 1- ترميز المعلومات وتمثيلها -الجزء 6:تمثيل الأعداد الحقيقية](https://www.youtube.com/watch?v=gGDghnFuYMI)
-- [Structure Machine 1- ترميز المعلومات وتمثيلها -الجزء 6.1:تمثيل الأعداد الحقيقية - تمارين](https://www.youtube.com/watch?v=1jZH8nbw2wc)
 <!-- YOUTUBE:END -->
 
 ### Github Stats
