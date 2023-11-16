@@ -40,8 +40,8 @@
 
 ### YouTube latest videos
 <!-- YOUTUBE:START -->
-- [Structure Machine 1 Exercises ترميز غراي  gray code](https://www.youtube.com/watch?v=J53ZMBx2ZeI)
-- [Structure Machine 1 ترميز المعلومات 8.3:ترميز غراي  gray code](https://www.youtube.com/watch?v=Qk1iEj4lse8)
+- [Exercises ترميز غراي  gray code - فصل ترميز المعلومات وتمثيلها Structure Machine 1](https://www.youtube.com/watch?v=J53ZMBx2ZeI)
+- [Gray code ترميز غراي Structure Machine 1 :  8.3  ترميز المعلومات وتمثيلها](https://www.youtube.com/watch?v=Qk1iEj4lse8)
 - [Structure Machine 1 exercises  تمارين جزء5  Excess 3](https://www.youtube.com/watch?v=nOXvNoSSRik)
 - [Structure Machine 1 الجزء4 تمارين BCD Code](https://www.youtube.com/watch?v=KoBy5pqRgNQ)
 - [منهجية البرمجة وتقنياتها : فصل  أنماط التصميم Design patterns: الجزء 2](https://www.youtube.com/watch?v=lFCG5AEI7jM)
