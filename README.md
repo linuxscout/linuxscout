@@ -42,9 +42,9 @@
 <!-- YOUTUBE:START -->
 - [Exercises ترميز غراي  gray code - فصل ترميز المعلومات وتمثيلها Structure Machine 1](https://www.youtube.com/watch?v=J53ZMBx2ZeI)
 - [Gray code ترميز غراي Structure Machine 1 :  8.3  ترميز المعلومات وتمثيلها](https://www.youtube.com/watch?v=Qk1iEj4lse8)
-- [Structure Machine 1 exercises  تمارين جزء5  Excess 3](https://www.youtube.com/watch?v=nOXvNoSSRik)
-- [Structure Machine 1 الجزء4 تمارين BCD Code](https://www.youtube.com/watch?v=KoBy5pqRgNQ)
-- [منهجية البرمجة وتقنياتها : فصل  أنماط التصميم Design patterns: الجزء 2](https://www.youtube.com/watch?v=lFCG5AEI7jM)
+- [Excess 3 تمارين Structure Machine 1 exercises   جزء5](https://www.youtube.com/watch?v=nOXvNoSSRik)
+- [BCD Code  تمارين - Structure Machine 1 الجزء4](https://www.youtube.com/watch?v=KoBy5pqRgNQ)
+- [أنماط التصميم Design patterns - منهجية البرمجة وتقنياتها : فصل : الجزء 2](https://www.youtube.com/watch?v=lFCG5AEI7jM)
 <!-- YOUTUBE:END -->
 
 ### Github Stats
