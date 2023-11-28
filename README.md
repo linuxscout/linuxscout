@@ -40,11 +40,11 @@
 
 ### YouTube latest videos
 <!-- YOUTUBE:START -->
+- [Factory Method - أنماط التصميم Design pattern](https://www.youtube.com/watch?v=NHJm4kAhkS4)
+- [مبادئ SOLID princtipals ج2- أنماط التصميم Design pattern](https://www.youtube.com/watch?v=xouTXnxOvvQ)
+- [مبادئ SOLID princtipals ج1- أنماط التصميم Design pattern](https://www.youtube.com/watch?v=RHLpkw608-o)
 - [مبادئ البرمجة الكانئية OOP principals : منهجية البرمجة وتقنياتها : فصل  أنماط التصميم](https://www.youtube.com/watch?v=aarkKLL7OyQ)
 - [Exercises ترميز غراي  gray code - فصل ترميز المعلومات وتمثيلها Structure Machine 1](https://www.youtube.com/watch?v=J53ZMBx2ZeI)
-- [Gray code ترميز غراي Structure Machine 1 :  8.3  ترميز المعلومات وتمثيلها](https://www.youtube.com/watch?v=Qk1iEj4lse8)
-- [Excess 3 تمارين Structure Machine 1 exercises   جزء5](https://www.youtube.com/watch?v=nOXvNoSSRik)
-- [BCD Code  تمارين - Structure Machine 1 الجزء4](https://www.youtube.com/watch?v=KoBy5pqRgNQ)
 <!-- YOUTUBE:END -->
 
 ### Github Stats
