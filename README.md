@@ -40,11 +40,11 @@
 
 ### YouTube latest videos
 <!-- YOUTUBE:START -->
+- [الخواص الجبرية -ج2-  الجبر البولياني  Boolean Algebra -  -ج5- Structure Machine1](https://www.youtube.com/watch?v=SLXJDHWRALA)
+- [الخواص الجبري - الجبر البولياني  Boolean Algebra -ج4- Structure Machine1](https://www.youtube.com/watch?v=P9wXETEPZqY)
+- [جدول الحقيقة والمخطط المنطقي - الجبر البولياني  Boolean Algebra - -ج3- Structure Machine1](https://www.youtube.com/watch?v=G1fG05Ils8M)
 - [الجبر البولياني  Boolean Algebra - مقدمة -ج2- Structure Machine1](https://www.youtube.com/watch?v=ebj1I9AGSzA)
 - [الجبر البولياني  Boolean Algebra - مقدمة -ج1- Structure Machine1](https://www.youtube.com/watch?v=ZASaeaKcZF4)
-- [Abstract Factory Method - أنماط التصميم Design pattern](https://www.youtube.com/watch?v=nlMQRCswsmA)
-- [Factory Method - أنماط التصميم Design pattern](https://www.youtube.com/watch?v=NHJm4kAhkS4)
-- [مبادئ SOLID princtipals ج2- أنماط التصميم Design pattern](https://www.youtube.com/watch?v=xouTXnxOvvQ)
 <!-- YOUTUBE:END -->
 
 ### Github Stats
