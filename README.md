@@ -40,11 +40,11 @@
 
 ### YouTube latest videos
 <!-- YOUTUBE:START -->
+- [الجبر البولياني  Boolean Algebra - مقدمة -ج2- Structure Machine1](https://www.youtube.com/watch?v=ebj1I9AGSzA)
+- [الجبر البولياني  Boolean Algebra - مقدمة -ج1- Structure Machine1](https://www.youtube.com/watch?v=ZASaeaKcZF4)
 - [Abstract Factory Method - أنماط التصميم Design pattern](https://www.youtube.com/watch?v=nlMQRCswsmA)
 - [Factory Method - أنماط التصميم Design pattern](https://www.youtube.com/watch?v=NHJm4kAhkS4)
 - [مبادئ SOLID princtipals ج2- أنماط التصميم Design pattern](https://www.youtube.com/watch?v=xouTXnxOvvQ)
-- [مبادئ SOLID princtipals ج1- أنماط التصميم Design pattern](https://www.youtube.com/watch?v=RHLpkw608-o)
-- [مبادئ البرمجة الكانئية OOP principals : منهجية البرمجة وتقنياتها : فصل  أنماط التصميم](https://www.youtube.com/watch?v=aarkKLL7OyQ)
 <!-- YOUTUBE:END -->
 
 ### Github Stats
