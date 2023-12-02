@@ -40,7 +40,7 @@
 
 ### YouTube latest videos
 <!-- YOUTUBE:START -->
-- [الخواص الجبرية -ج2-  الجبر البولياني  Boolean Algebra -  -ج5- Structure Machine1](https://www.youtube.com/watch?v=SLXJDHWRALA)
+- [التبسيط الجبري -  الجبر البولياني  Boolean Algebra -  -ج5- Structure Machine1](https://www.youtube.com/watch?v=SLXJDHWRALA)
 - [الخواص الجبري - الجبر البولياني  Boolean Algebra -ج4- Structure Machine1](https://www.youtube.com/watch?v=P9wXETEPZqY)
 - [جدول الحقيقة والمخطط المنطقي - الجبر البولياني  Boolean Algebra - -ج3- Structure Machine1](https://www.youtube.com/watch?v=G1fG05Ils8M)
 - [الجبر البولياني  Boolean Algebra - مقدمة -ج2- Structure Machine1](https://www.youtube.com/watch?v=ebj1I9AGSzA)
