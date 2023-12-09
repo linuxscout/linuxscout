@@ -40,11 +40,11 @@
 
 ### YouTube latest videos
 <!-- YOUTUBE:START -->
-- [التبسيط الجبري -  الجبر البولياني  Boolean Algebra -  -ج5- Structure Machine1](https://www.youtube.com/watch?v=SLXJDHWRALA)
-- [الخواص الجبري - الجبر البولياني  Boolean Algebra -ج4- Structure Machine1](https://www.youtube.com/watch?v=P9wXETEPZqY)
-- [جدول الحقيقة والمخطط المنطقي - الجبر البولياني  Boolean Algebra - -ج3- Structure Machine1](https://www.youtube.com/watch?v=G1fG05Ils8M)
-- [الجبر البولياني  Boolean Algebra - مقدمة -ج2- Structure Machine1](https://www.youtube.com/watch?v=ebj1I9AGSzA)
-- [الجبر البولياني  Boolean Algebra - مقدمة -ج1- Structure Machine1](https://www.youtube.com/watch?v=ZASaeaKcZF4)
+- [ج11 -1-  جدول كارنوف - تبسيط بياني دالة منطقية- الجبر البولياني - boolean algebra](https://www.youtube.com/watch?v=os7vmu-wzU8)
+- [ج10 - تبسيط دالة منطقية- الجبر البولياني - boolean algebra](https://www.youtube.com/watch?v=eE4bnUBw5eA)
+- [ج9 - الشكل القانوني الرقمي لدالة منطقية- الجبر البولياني - boolean algebra](https://www.youtube.com/watch?v=KMa-y--Xquk)
+- [ج8 - الشكل القانوني لدالة منطقية- الجبر البولياني - boolean algebra](https://www.youtube.com/watch?v=CVj7ixglh7M)
+- [ج7 - استخلاص الدالة المنطقية من جدول الحقيقة- الجبر البولياني - boolean algebra](https://www.youtube.com/watch?v=OqG62C3rrOk)
 <!-- YOUTUBE:END -->
 
 ### Github Stats
