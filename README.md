@@ -40,11 +40,11 @@
 
 ### YouTube latest videos
 <!-- YOUTUBE:START -->
+- [ج12 - جدول كارنوف - تمارين- الجبر البولياني - boolean algebra](https://www.youtube.com/watch?v=-fV_htSe6H8)
+- [ج11 -2-  جدول كارنوف - تبسيط بياني دالة منطقية- الجبر البولياني - boolean algebra](https://www.youtube.com/watch?v=TYtiBN6sOYY)
 - [ج11 -1-  جدول كارنوف - تبسيط بياني دالة منطقية- الجبر البولياني - boolean algebra](https://www.youtube.com/watch?v=os7vmu-wzU8)
 - [ج10 - تبسيط دالة منطقية- الجبر البولياني - boolean algebra](https://www.youtube.com/watch?v=eE4bnUBw5eA)
 - [ج9 - الشكل القانوني الرقمي لدالة منطقية- الجبر البولياني - boolean algebra](https://www.youtube.com/watch?v=KMa-y--Xquk)
-- [ج8 - الشكل القانوني لدالة منطقية- الجبر البولياني - boolean algebra](https://www.youtube.com/watch?v=CVj7ixglh7M)
-- [ج7 - استخلاص الدالة المنطقية من جدول الحقيقة- الجبر البولياني - boolean algebra](https://www.youtube.com/watch?v=OqG62C3rrOk)
 <!-- YOUTUBE:END -->
 
 ### Github Stats
