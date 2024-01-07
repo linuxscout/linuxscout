@@ -40,11 +40,11 @@
 
 ### YouTube latest videos
 <!-- YOUTUBE:START -->
+- [Proxy- أنماط التصميم Design pattern](https://www.youtube.com/watch?v=ZmVTYE8ul5k)
 - [Facade- أنماط التصميم Design pattern](https://www.youtube.com/watch?v=s0SgFmbzzJI)
 - [Adapter- أنماط التصميم Design pattern](https://www.youtube.com/watch?v=CT6n2QLod04)
 - [ٍStructural patterns - أنماط التصميم Design pattern](https://www.youtube.com/watch?v=03EX_DBkAUM)
 - [Prototype- أنماط التصميم Design pattern](https://www.youtube.com/watch?v=pLy9AuLNBwE)
-- [Builder- أنماط التصميم Design pattern](https://www.youtube.com/watch?v=kdtGqg0HwQA)
 <!-- YOUTUBE:END -->
 
 ### Github Stats
