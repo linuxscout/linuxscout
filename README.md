@@ -40,11 +40,11 @@
 
 ### YouTube latest videos
 <!-- YOUTUBE:START -->
-- [ج12 - جدول كارنوف - تمارين- الجبر البولياني - boolean algebra](https://www.youtube.com/watch?v=-fV_htSe6H8)
-- [ج11 -2-  جدول كارنوف - تبسيط بياني دالة منطقية- الجبر البولياني - boolean algebra](https://www.youtube.com/watch?v=TYtiBN6sOYY)
-- [ج11 -1-  جدول كارنوف - تبسيط بياني دالة منطقية- الجبر البولياني - boolean algebra](https://www.youtube.com/watch?v=os7vmu-wzU8)
-- [ج10 - تبسيط دالة منطقية- الجبر البولياني - boolean algebra](https://www.youtube.com/watch?v=eE4bnUBw5eA)
-- [ج9 - الشكل القانوني الرقمي لدالة منطقية- الجبر البولياني - boolean algebra](https://www.youtube.com/watch?v=KMa-y--Xquk)
+- [Facade- أنماط التصميم Design pattern](https://www.youtube.com/watch?v=s0SgFmbzzJI)
+- [Adapter- أنماط التصميم Design pattern](https://www.youtube.com/watch?v=CT6n2QLod04)
+- [ٍStructural patterns - أنماط التصميم Design pattern](https://www.youtube.com/watch?v=03EX_DBkAUM)
+- [Prototype- أنماط التصميم Design pattern](https://www.youtube.com/watch?v=pLy9AuLNBwE)
+- [Builder- أنماط التصميم Design pattern](https://www.youtube.com/watch?v=kdtGqg0HwQA)
 <!-- YOUTUBE:END -->
 
 ### Github Stats
