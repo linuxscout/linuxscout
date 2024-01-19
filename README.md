@@ -40,11 +40,11 @@
 
 ### YouTube latest videos
 <!-- YOUTUBE:START -->
+- [البرمجة جانبية المنحى-ج3- Aspect Oriented Programming- Meta Programming](https://www.youtube.com/watch?v=7UqnsiCzPS4)
 - [البرمجة جانبية المنحى-ج2- Aspect Oriented Programming- Meta Programming](https://www.youtube.com/watch?v=qE4PWmUzRr4)
 - [البرمجة جانبية المنحى-ج1- Aspect Oriented Programming- Meta Programming](https://www.youtube.com/watch?v=OOaNMkg0Fi4)
 - [البرمجة الانعكاسية- Reflection- Meta Programming](https://www.youtube.com/watch?v=bfiMAmBqJbo)
 - [البرمجة الانعكاسية-ج2- Reflection- Meta Programming](https://www.youtube.com/watch?v=-XxTy2NXjGA)
-- [ما وراء البرمجة -مقدمة - Meta Programming- Introduction](https://www.youtube.com/watch?v=BYIIww8xfMg)
 <!-- YOUTUBE:END -->
 
 ### Github Stats
