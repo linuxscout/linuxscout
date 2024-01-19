@@ -40,11 +40,11 @@
 
 ### YouTube latest videos
 <!-- YOUTUBE:START -->
-- [Observer - أنماط التصميم Design pattern](https://www.youtube.com/watch?v=LdWxcVC5S18)
-- [Strategy- أنماط التصميم Design pattern](https://www.youtube.com/watch?v=U3Z1eQ1RPSg)
-- [Behavioral patterns - أنماط التصميم Design pattern](https://www.youtube.com/watch?v=A2kERJFyKV4)
-- [Composite - أنماط التصميم Design pattern](https://www.youtube.com/watch?v=8sM0LYVT48E)
-- [امتحان التقويم الذاتي AutoEvaluation Exam - Stucture Machine 1](https://www.youtube.com/watch?v=BF_Ttz3t1YE)
+- [البرمجة جانبية المنحى-ج2- Aspect Oriented Programming- Meta Programming](https://www.youtube.com/watch?v=qE4PWmUzRr4)
+- [البرمجة جانبية المنحى-ج1- Aspect Oriented Programming- Meta Programming](https://www.youtube.com/watch?v=OOaNMkg0Fi4)
+- [البرمجة الانعكاسية- Reflection- Meta Programming](https://www.youtube.com/watch?v=bfiMAmBqJbo)
+- [البرمجة الانعكاسية-ج2- Reflection- Meta Programming](https://www.youtube.com/watch?v=-XxTy2NXjGA)
+- [ما وراء البرمجة -مقدمة - Meta Programming- Introduction](https://www.youtube.com/watch?v=BYIIww8xfMg)
 <!-- YOUTUBE:END -->
 
 ### Github Stats
