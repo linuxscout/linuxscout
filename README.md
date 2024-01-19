@@ -40,11 +40,11 @@
 
 ### YouTube latest videos
 <!-- YOUTUBE:START -->
+- [Strategy- أنماط التصميم Design pattern](https://www.youtube.com/watch?v=U3Z1eQ1RPSg)
+- [Behavioral patterns - أنماط التصميم Design pattern](https://www.youtube.com/watch?v=A2kERJFyKV4)
+- [Composite - أنماط التصميم Design pattern](https://www.youtube.com/watch?v=8sM0LYVT48E)
 - [امتحان التقويم الذاتي AutoEvaluation Exam - Stucture Machine 1](https://www.youtube.com/watch?v=BF_Ttz3t1YE)
 - [Proxy- أنماط التصميم Design pattern](https://www.youtube.com/watch?v=ZmVTYE8ul5k)
-- [Facade- أنماط التصميم Design pattern](https://www.youtube.com/watch?v=s0SgFmbzzJI)
-- [Adapter- أنماط التصميم Design pattern](https://www.youtube.com/watch?v=CT6n2QLod04)
-- [ٍStructural patterns - أنماط التصميم Design pattern](https://www.youtube.com/watch?v=03EX_DBkAUM)
 <!-- YOUTUBE:END -->
 
 ### Github Stats
