@@ -40,11 +40,11 @@
 
 ### YouTube latest videos
 <!-- YOUTUBE:START -->
+- [ج15 - ملء جدول الحقيقة - بالأصفار- الجبر البولياني - boolean algebra](https://www.youtube.com/watch?v=u7Ktm4suJb8)
+- [ج14 - كيف نملأ جدول الحقيقة - بسرعة- الجبر البولياني - boolean algebra](https://www.youtube.com/watch?v=elKEy2UXjBE)
+- [ج13 - جدول كارنوف - بالأصفر- الجبر البولياني - boolean algebra](https://www.youtube.com/watch?v=W7pblc_hsec)
 - [البرمجة جانبية المنحى-ج3- Aspect Oriented Programming- Meta Programming](https://www.youtube.com/watch?v=7UqnsiCzPS4)
 - [البرمجة جانبية المنحى-ج2- Aspect Oriented Programming- Meta Programming](https://www.youtube.com/watch?v=qE4PWmUzRr4)
-- [البرمجة جانبية المنحى-ج1- Aspect Oriented Programming- Meta Programming](https://www.youtube.com/watch?v=OOaNMkg0Fi4)
-- [البرمجة الانعكاسية- Reflection- Meta Programming](https://www.youtube.com/watch?v=bfiMAmBqJbo)
-- [البرمجة الانعكاسية-ج2- Reflection- Meta Programming](https://www.youtube.com/watch?v=-XxTy2NXjGA)
 <!-- YOUTUBE:END -->
 
 ### Github Stats
