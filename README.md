@@ -40,11 +40,11 @@
 
 ### YouTube latest videos
 <!-- YOUTUBE:START -->
-- [ج16 - دالة بتعريف نصي- الجبر البولياني - boolean algebra](https://www.youtube.com/watch?v=JM1T9h3QcuQ)
-- [ج15 - ملء جدول الحقيقة - بالأصفار- الجبر البولياني - boolean algebra](https://www.youtube.com/watch?v=u7Ktm4suJb8)
-- [ج14 - كيف نملأ جدول الحقيقة - بسرعة- الجبر البولياني - boolean algebra](https://www.youtube.com/watch?v=elKEy2UXjBE)
-- [ج13 - جدول كارنوف - بالأصفر- الجبر البولياني - boolean algebra](https://www.youtube.com/watch?v=W7pblc_hsec)
-- [البرمجة جانبية المنحى-ج3- Aspect Oriented Programming- Meta Programming](https://www.youtube.com/watch?v=7UqnsiCzPS4)
+- [ج21 - الحالات الممنوعة -تمرين- الجبر البولياني - boolean algebra](https://www.youtube.com/watch?v=Ju5Ye9uW3jw)
+- [ج20 - الحالات الممنوعة- الجبر البولياني - boolean algebra](https://www.youtube.com/watch?v=TySdb0WSFwY)
+- [ج19 - تصميم الدارات المنطقية -تطبيق- الجبر البولياني - boolean algebra](https://www.youtube.com/watch?v=swbNTW7aK-E)
+- [ج18 - البوابات المنطقية الشاملة NAND-NOR- الجبر البولياني - boolean algebra](https://www.youtube.com/watch?v=DSJDnX2rpvk)
+- [ج17 - البوابات المنطقية المركبة XOR-NAND-NOR- الجبر البولياني - boolean algebra](https://www.youtube.com/watch?v=Z_jst084S_g)
 <!-- YOUTUBE:END -->
 
 ### Github Stats
