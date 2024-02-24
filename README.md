@@ -40,11 +40,11 @@
 
 ### YouTube latest videos
 <!-- YOUTUBE:START -->
+- [ج4- دارة التوزيع Demultiplexer- الدارات التوافقية  Combinational Circuits](https://www.youtube.com/watch?v=8j2fOstyl7M)
 - [ج3- دارة الانتقاء Multiplexer- الدارات التوافقية  Combinational Circuits](https://www.youtube.com/watch?v=q1RiIivpYbA)
 - [الدارات التوافقية  -ج1- مقدمة- Combinational Circuits](https://www.youtube.com/watch?v=E_S3O9MWNxM)
 - [ج2- دارة الجمع - الدارات التوافقية  Combinational Circuits](https://www.youtube.com/watch?v=ykx5V5KuZ4g)
 - [مدخل لمادة بنية الآلة Structure Machine 2](https://www.youtube.com/watch?v=BrBIrBkIDuQ)
-- [ج21 - الحالات الممنوعة -تمرين- الجبر البولياني - boolean algebra](https://www.youtube.com/watch?v=Ju5Ye9uW3jw)
 <!-- YOUTUBE:END -->
 
 ### Github Stats
