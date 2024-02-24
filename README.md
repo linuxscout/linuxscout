@@ -40,11 +40,11 @@
 
 ### YouTube latest videos
 <!-- YOUTUBE:START -->
+- [مدخل لمادة بنية الآلة Structure Machine 2](https://www.youtube.com/watch?v=BrBIrBkIDuQ)
 - [ج21 - الحالات الممنوعة -تمرين- الجبر البولياني - boolean algebra](https://www.youtube.com/watch?v=Ju5Ye9uW3jw)
 - [ج20 - الحالات الممنوعة- الجبر البولياني - boolean algebra](https://www.youtube.com/watch?v=TySdb0WSFwY)
 - [ج19 - تصميم الدارات المنطقية -تطبيق- الجبر البولياني - boolean algebra](https://www.youtube.com/watch?v=swbNTW7aK-E)
 - [ج18 - البوابات المنطقية الشاملة NAND-NOR- الجبر البولياني - boolean algebra](https://www.youtube.com/watch?v=DSJDnX2rpvk)
-- [ج17 - البوابات المنطقية المركبة XOR-NAND-NOR- الجبر البولياني - boolean algebra](https://www.youtube.com/watch?v=Z_jst084S_g)
 <!-- YOUTUBE:END -->
 
 ### Github Stats
