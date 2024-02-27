@@ -40,11 +40,11 @@
 
 ### YouTube latest videos
 <!-- YOUTUBE:START -->
-- [ج4- دارة التوزيع Demultiplexer- الدارات التوافقية  Combinational Circuits](https://www.youtube.com/watch?v=8j2fOstyl7M)
-- [ج3- دارة الانتقاء Multiplexer- الدارات التوافقية  Combinational Circuits](https://www.youtube.com/watch?v=q1RiIivpYbA)
-- [الدارات التوافقية  -ج1- مقدمة- Combinational Circuits](https://www.youtube.com/watch?v=E_S3O9MWNxM)
-- [ج2- دارة الجمع - الدارات التوافقية  Combinational Circuits](https://www.youtube.com/watch?v=ykx5V5KuZ4g)
-- [مدخل لمادة بنية الآلة Structure Machine 2](https://www.youtube.com/watch?v=BrBIrBkIDuQ)
+- [ج9- دارات العرض Displays- الدارات التوافقية  Combinational Circuits](https://www.youtube.com/watch?v=0sVctYcqeq8)
+- [ج8- دارات التحويل الترميز Transcoders- الدارات التوافقية  Combinational Circuits](https://www.youtube.com/watch?v=fQrbEw21w0c)
+- [ج7- دارة الترميز Encoder- الدارات التوافقية  Combinational Circuits](https://www.youtube.com/watch?v=33B81fnwpVA)
+- [ج6- دارة فك الترميزdecoders - الدارات التوافقية  Combinational Circuits](https://www.youtube.com/watch?v=d-FF2bKTKhs)
+- [ج5- دارات تحويل الترميز Transcoding- الدارات التوافقية  Combinational Circuits](https://www.youtube.com/watch?v=mbSerNrgJjg)
 <!-- YOUTUBE:END -->
 
 ### Github Stats
