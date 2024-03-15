@@ -29,11 +29,11 @@
 <div dir="rtl">
 
 <!-- BLOG-POST-LIST:START -->
+- [إضافة نشاط “الإعراب” في ألعاب Gcompris](https://tahadz.wordpress.com/2024/03/15/1028/)
 - [المسابقة العربية للبرمجة لطلاب الجامعات](https://tahadz.wordpress.com/2024/03/11/%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d8%a9-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9-%d9%84%d9%84%d8%a8%d8%b1%d9%85%d8%ac%d8%a9-%d9%84%d8%b7%d9%84%d8%a7%d8%a8-%d8%a7%d9%84%d8%ac%d8%a7%d9%85/)
 - [مقال في جريدة النصر](https://tahadz.wordpress.com/2023/10/29/%d9%85%d9%82%d8%a7%d9%84-%d9%81%d9%8a-%d8%ac%d8%b1%d9%8a%d8%af%d8%a9-%d8%a7%d9%84%d9%86%d8%b5%d8%b1/)
 - [إطلاق كتاب أعمال تطبيقية لمادة منهجيات البرمجة وتقنياتها](https://tahadz.wordpress.com/2023/09/26/mtibook/)
 - [إطلاق كتاب بنية الآلة Structure Machine 1 &lpar;عربي/إنجليزي&rpar;](https://tahadz.wordpress.com/2023/09/22/strm1engbook/)
-- [لعبة الرديف](https://tahadz.wordpress.com/2023/08/09/%d9%84%d8%b9%d8%a8%d8%a9-%d8%a7%d9%84%d8%b1%d8%af%d9%8a%d9%81/)
 <!-- BLOG-POST-LIST:END -->
 </div>
 
