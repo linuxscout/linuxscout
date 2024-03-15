@@ -40,11 +40,11 @@
 
 ### YouTube latest videos
 <!-- YOUTUBE:START -->
+- [منظومة ألعاب Gcompris مفتوحة المصدر](https://www.youtube.com/watch?v=4E1pSSGzW44)
 - [نشاط الإعراب في برنامج Gcompris](https://www.youtube.com/watch?v=RI8782a8o1E)
 - [ج9- دارات العرض Displays- الدارات التوافقية  Combinational Circuits](https://www.youtube.com/watch?v=0sVctYcqeq8)
 - [ج8- دارات التحويل الترميز Transcoders- الدارات التوافقية  Combinational Circuits](https://www.youtube.com/watch?v=fQrbEw21w0c)
 - [ج7- دارة الترميز Encoder- الدارات التوافقية  Combinational Circuits](https://www.youtube.com/watch?v=33B81fnwpVA)
-- [ج6- دارة فك الترميزdecoders - الدارات التوافقية  Combinational Circuits](https://www.youtube.com/watch?v=d-FF2bKTKhs)
 <!-- YOUTUBE:END -->
 
 ### Github Stats
