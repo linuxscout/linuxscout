@@ -40,11 +40,11 @@
 
 ### YouTube latest videos
 <!-- YOUTUBE:START -->
+- [نشاط الإعراب في برنامج Gcompris](https://www.youtube.com/watch?v=RI8782a8o1E)
 - [ج9- دارات العرض Displays- الدارات التوافقية  Combinational Circuits](https://www.youtube.com/watch?v=0sVctYcqeq8)
 - [ج8- دارات التحويل الترميز Transcoders- الدارات التوافقية  Combinational Circuits](https://www.youtube.com/watch?v=fQrbEw21w0c)
 - [ج7- دارة الترميز Encoder- الدارات التوافقية  Combinational Circuits](https://www.youtube.com/watch?v=33B81fnwpVA)
 - [ج6- دارة فك الترميزdecoders - الدارات التوافقية  Combinational Circuits](https://www.youtube.com/watch?v=d-FF2bKTKhs)
-- [ج5- دارات تحويل الترميز Transcoding- الدارات التوافقية  Combinational Circuits](https://www.youtube.com/watch?v=mbSerNrgJjg)
 <!-- YOUTUBE:END -->
 
 ### Github Stats
