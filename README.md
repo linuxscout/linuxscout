@@ -40,11 +40,11 @@
 
 ### YouTube latest videos
 <!-- YOUTUBE:START -->
+- [ج3- المنطق التعاقبي التزامن2- الدارات التعاقبية  Sequential Circuits](https://www.youtube.com/watch?v=cCG9tKSVe4I)
+- [ج2- المنطق التعاقبي التزامن- الدارات التعاقبية  Sequential Circuits](https://www.youtube.com/watch?v=d5gh7NUrtB8)
+- [ج1- المنطق التعاقبي مدخل- الدارات التعاقبية  Sequential Circuits](https://www.youtube.com/watch?v=iq1g_EeJo4E)
 - [منظومة ألعاب Gcompris مفتوحة المصدر](https://www.youtube.com/watch?v=4E1pSSGzW44)
 - [نشاط الإعراب في برنامج Gcompris](https://www.youtube.com/watch?v=RI8782a8o1E)
-- [ج9- دارات العرض Displays- الدارات التوافقية  Combinational Circuits](https://www.youtube.com/watch?v=0sVctYcqeq8)
-- [ج8- دارات التحويل الترميز Transcoders- الدارات التوافقية  Combinational Circuits](https://www.youtube.com/watch?v=fQrbEw21w0c)
-- [ج7- دارة الترميز Encoder- الدارات التوافقية  Combinational Circuits](https://www.youtube.com/watch?v=33B81fnwpVA)
 <!-- YOUTUBE:END -->
 
 ### Github Stats
