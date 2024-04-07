@@ -40,7 +40,7 @@
 
 ### YouTube latest videos
 <!-- YOUTUBE:START -->
-- [ج9- القلابات القفل د D latch - الدارات التعاقبية  Sequential Circuits](https://www.youtube.com/watch?v=6xXHdnLM8QA)
+- [ج9- قلابات القفل د D latch - الدارات التعاقبية  Sequential Circuits](https://www.youtube.com/watch?v=6xXHdnLM8QA)
 - [ج8- القلابات د D Flip flops- الدارات التعاقبية  Sequential Circuits](https://www.youtube.com/watch?v=slA93NW18fw)
 - [ج7- القلابات T Flip flops- الدارات التعاقبية  Sequential Circuits](https://www.youtube.com/watch?v=m-yyWOvyN1s)
 - [ج6- القلابات RST Flip flops- الدارات التعاقبية  Sequential Circuits](https://www.youtube.com/watch?v=tDcjXMV98Kc)
