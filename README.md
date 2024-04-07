@@ -40,11 +40,11 @@
 
 ### YouTube latest videos
 <!-- YOUTUBE:START -->
+- [ج6- القلابات RST Flip flops- الدارات التعاقبية  Sequential Circuits](https://www.youtube.com/watch?v=tDcjXMV98Kc)
 - [ج5- القلابات RS Flip flops- الدارات التعاقبية  Sequential Circuits](https://www.youtube.com/watch?v=bz8Ym7N0xIY)
 - [ج4- القلابات Flip flops- الدارات التعاقبية  Sequential Circuits](https://www.youtube.com/watch?v=9Mw4CZZgoNM)
 - [ج3- المنطق التعاقبي التزامن2- الدارات التعاقبية  Sequential Circuits](https://www.youtube.com/watch?v=cCG9tKSVe4I)
 - [ج2- المنطق التعاقبي التزامن- الدارات التعاقبية  Sequential Circuits](https://www.youtube.com/watch?v=d5gh7NUrtB8)
-- [ج1- المنطق التعاقبي مدخل- الدارات التعاقبية  Sequential Circuits](https://www.youtube.com/watch?v=iq1g_EeJo4E)
 <!-- YOUTUBE:END -->
 
 ### Github Stats
