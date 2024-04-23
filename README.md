@@ -40,11 +40,11 @@
 
 ### YouTube latest videos
 <!-- YOUTUBE:START -->
+- [ج12- السجلات Registers - الدارات التعاقبية  Sequential Circuits](https://www.youtube.com/watch?v=s0QTTbT48tE)
 - [ج11- قلابات ج.ك غير المتزامنة   Asynch. JK flipflops - الدارات التعاقبية  Sequential Circuits](https://www.youtube.com/watch?v=vHCRdza7sek)
 - [ج10- قلابات القفل ج.ك JK flipflops - الدارات التعاقبية  Sequential Circuits](https://www.youtube.com/watch?v=vp4ukVCTJsQ)
 - [ج9- قلابات القفل د D latch - الدارات التعاقبية  Sequential Circuits](https://www.youtube.com/watch?v=6xXHdnLM8QA)
 - [ج8- القلابات د D Flip flops- الدارات التعاقبية  Sequential Circuits](https://www.youtube.com/watch?v=slA93NW18fw)
-- [ج7- القلابات T Flip flops- الدارات التعاقبية  Sequential Circuits](https://www.youtube.com/watch?v=m-yyWOvyN1s)
 <!-- YOUTUBE:END -->
 
 ### Github Stats
