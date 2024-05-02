@@ -1,4 +1,4 @@
-### Hi there, I'm Taha Zerrouki طه زروقي 👋
+٧### Hi there, I'm Taha Zerrouki طه زروقي 👋
 - 🔭 I’m currently working on wrting books about my university courses.
 - 🔭 I’m always working on Arabic Natural Language processing
 - 💬 Ask me about arabic NLP
