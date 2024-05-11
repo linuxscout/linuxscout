@@ -40,11 +40,11 @@
 
 ### YouTube latest videos
 <!-- YOUTUBE:START -->
+- [امتحان تقويم ذاتي Auto Evalutaion Exam Strcuture Machine2](https://www.youtube.com/watch?v=KDG4buYBcBw)
+- [ج18-تحليل دارة تعاقبية Circuit Analysis - الدارات التعاقبية  Sequential Circuits](https://www.youtube.com/watch?v=7UQcPJ-PIBU)
+- [ج17-تحليل دارة تعاقبية Circuit Analysis - الدارات التعاقبية  Sequential Circuits](https://www.youtube.com/watch?v=-TVPsm5M9oM)
 - [ج16-تحليل دارة تعاقبية Circuit Analysis - الدارات التعاقبية  Sequential Circuits](https://www.youtube.com/watch?v=jW9L3-QulFk)
 - [ج15- العدادات Counters - الدارات التعاقبية  Sequential Circuits](https://www.youtube.com/watch?v=KWvfzb8PbpU)
-- [ج14- العدادات Counters - الدارات التعاقبية  Sequential Circuits](https://www.youtube.com/watch?v=TMn3fgDmyEE)
-- [ج13- أنواع السجلات Register types - الدارات التعاقبية  Sequential Circuits](https://www.youtube.com/watch?v=RuKUu1pxrgw)
-- [ج12- السجلات Registers - الدارات التعاقبية  Sequential Circuits](https://www.youtube.com/watch?v=s0QTTbT48tE)
 <!-- YOUTUBE:END -->
 
 ### Github Stats
