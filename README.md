@@ -40,11 +40,11 @@
 
 ### YouTube latest videos
 <!-- YOUTUBE:START -->
+- [ج21-تصميم دارة تعاقبية Circuit Design - الدارات التعاقبية  Sequential Circuits](https://www.youtube.com/watch?v=BmRcXrM9GLo)
+- [ج20-تصميم دارة تعاقبية Circuit Design - الدارات التعاقبية  Sequential Circuits](https://www.youtube.com/watch?v=KfSZasTUZZA)
+- [ج19-تصميم دارة تعاقبية Circuit Design - الدارات التعاقبية  Sequential Circuits](https://www.youtube.com/watch?v=MK2MyOG4nPM)
 - [امتحان تقويم ذاتي Auto Evalutaion Exam Strcuture Machine2](https://www.youtube.com/watch?v=KDG4buYBcBw)
 - [ج18-تحليل دارة تعاقبية Circuit Analysis - الدارات التعاقبية  Sequential Circuits](https://www.youtube.com/watch?v=7UQcPJ-PIBU)
-- [ج17-تحليل دارة تعاقبية Circuit Analysis - الدارات التعاقبية  Sequential Circuits](https://www.youtube.com/watch?v=-TVPsm5M9oM)
-- [ج16-تحليل دارة تعاقبية Circuit Analysis - الدارات التعاقبية  Sequential Circuits](https://www.youtube.com/watch?v=jW9L3-QulFk)
-- [ج15- العدادات Counters - الدارات التعاقبية  Sequential Circuits](https://www.youtube.com/watch?v=KWvfzb8PbpU)
 <!-- YOUTUBE:END -->
 
 ### Github Stats
