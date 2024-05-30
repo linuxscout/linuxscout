@@ -40,11 +40,11 @@
 
 ### YouTube latest videos
 <!-- YOUTUBE:START -->
+- [محاضرة توجيهية لطلبة السنة الأولى عن الانتقال والديون والاستدراك](https://www.youtube.com/watch?v=Nq-JJ1CEQ3Y)
 - [ج21-تصميم دارة تعاقبية Circuit Design - الدارات التعاقبية  Sequential Circuits](https://www.youtube.com/watch?v=BmRcXrM9GLo)
 - [ج20-تصميم دارة تعاقبية Circuit Design - الدارات التعاقبية  Sequential Circuits](https://www.youtube.com/watch?v=KfSZasTUZZA)
 - [ج19-تصميم دارة تعاقبية Circuit Design - الدارات التعاقبية  Sequential Circuits](https://www.youtube.com/watch?v=MK2MyOG4nPM)
 - [امتحان تقويم ذاتي Auto Evalutaion Exam Strcuture Machine2](https://www.youtube.com/watch?v=KDG4buYBcBw)
-- [ج18-تحليل دارة تعاقبية Circuit Analysis - الدارات التعاقبية  Sequential Circuits](https://www.youtube.com/watch?v=7UQcPJ-PIBU)
 <!-- YOUTUBE:END -->
 
 ### Github Stats
