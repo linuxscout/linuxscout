@@ -40,11 +40,11 @@
 
 ### YouTube latest videos
 <!-- YOUTUBE:START -->
+- [تطبيق قطرب لتصريف الأفعال العربية](https://www.youtube.com/watch?v=G0-ykM6T4WE)
 - [محاضرة توجيهية لطلبة السنة الأولى عن الانتقال والديون والاستدراك](https://www.youtube.com/watch?v=Nq-JJ1CEQ3Y)
 - [ج21-تصميم دارة تعاقبية Circuit Design - الدارات التعاقبية  Sequential Circuits](https://www.youtube.com/watch?v=BmRcXrM9GLo)
 - [ج20-تصميم دارة تعاقبية Circuit Design - الدارات التعاقبية  Sequential Circuits](https://www.youtube.com/watch?v=KfSZasTUZZA)
 - [ج19-تصميم دارة تعاقبية Circuit Design - الدارات التعاقبية  Sequential Circuits](https://www.youtube.com/watch?v=MK2MyOG4nPM)
-- [امتحان تقويم ذاتي Auto Evalutaion Exam Strcuture Machine2](https://www.youtube.com/watch?v=KDG4buYBcBw)
 <!-- YOUTUBE:END -->
 
 ### Github Stats
