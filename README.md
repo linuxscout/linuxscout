@@ -40,11 +40,11 @@
 
 ### YouTube latest videos
 <!-- YOUTUBE:START -->
+- [قطرب برنامج تصريف الأفعال العربية](https://www.youtube.com/watch?v=YQGkxwp6X1w)
 - [موارد للطلاب السنة الأولى جامعي إعلام آلي](https://www.youtube.com/watch?v=AZgD7mmQ6yQ)
 - [تطبيق قطرب لتصريف الأفعال العربية](https://www.youtube.com/watch?v=G0-ykM6T4WE)
 - [محاضرة توجيهية لطلبة السنة الأولى عن الانتقال والديون والاستدراك](https://www.youtube.com/watch?v=Nq-JJ1CEQ3Y)
 - [ج21-تصميم دارة تعاقبية Circuit Design - الدارات التعاقبية  Sequential Circuits](https://www.youtube.com/watch?v=BmRcXrM9GLo)
-- [ج20-تصميم دارة تعاقبية Circuit Design - الدارات التعاقبية  Sequential Circuits](https://www.youtube.com/watch?v=KfSZasTUZZA)
 <!-- YOUTUBE:END -->
 
 ### Github Stats
