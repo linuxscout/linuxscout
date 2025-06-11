@@ -40,10 +40,10 @@
 
 ### YouTube latest videos
 <!-- YOUTUBE:START -->
-- [تطبيق معدلي](https://www.youtube.com/watch?v=FhUtWk5IsSs)
+- [تطبيق معدلي](https://www.youtube.com/shorts/FhUtWk5IsSs)
 - [طه زروقي، بالعربي : مشاريع مفتوحة المصدر للغة العربية](https://www.youtube.com/watch?v=35XXywQwtjw)
 - [قطرب برنامج تصريف الأفعال العربية](https://www.youtube.com/watch?v=YQGkxwp6X1w)
-- [موارد للطلاب السنة الأولى جامعي إعلام آلي](https://www.youtube.com/watch?v=AZgD7mmQ6yQ)
+- [موارد للطلاب السنة الأولى جامعي إعلام آلي](https://www.youtube.com/shorts/AZgD7mmQ6yQ)
 - [تطبيق قطرب لتصريف الأفعال العربية](https://www.youtube.com/watch?v=G0-ykM6T4WE)
 <!-- YOUTUBE:END -->
 
