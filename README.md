@@ -29,11 +29,11 @@
 <div dir="rtl">
 
 <!-- BLOG-POST-LIST:START -->
+- [تقرير تقني: حل معضلة عرض الخطوط العربية داخل الأكواد البرمجية في LaTeX](https://tahadz.wordpress.com/2026/07/10/%d8%aa%d9%82%d8%b1%d9%8a%d8%b1-%d8%aa%d9%82%d9%86%d9%8a-%d8%ad%d9%84-%d9%85%d8%b9%d8%b6%d9%84%d8%a9-%d8%b9%d8%b1%d8%b6-%d8%a7%d9%84%d8%ae%d8%b7%d9%88%d8%b7-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9/)
 - [كتاب بنية الآلة 2، النسخة الإنجليزية](https://tahadz.wordpress.com/2024/04/02/%d9%83%d8%aa%d8%a7%d8%a8-%d8%a8%d9%86%d9%8a%d8%a9-%d8%a7%d9%84%d8%a2%d9%84%d8%a9-2%d8%8c-%d8%a7%d9%84%d9%86%d8%b3%d8%ae%d8%a9-%d8%a7%d9%84%d8%a5%d9%86%d8%ac%d9%84%d9%8a%d8%b2%d9%8a%d8%a9/)
 - [إضافة نشاط “الإعراب” في ألعاب Gcompris](https://tahadz.wordpress.com/2024/03/15/1028/)
 - [المسابقة العربية للبرمجة لطلاب الجامعات](https://tahadz.wordpress.com/2024/03/11/%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d8%a9-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9-%d9%84%d9%84%d8%a8%d8%b1%d9%85%d8%ac%d8%a9-%d9%84%d8%b7%d9%84%d8%a7%d8%a8-%d8%a7%d9%84%d8%ac%d8%a7%d9%85/)
 - [مقال في جريدة النصر](https://tahadz.wordpress.com/2023/10/29/%d9%85%d9%82%d8%a7%d9%84-%d9%81%d9%8a-%d8%ac%d8%b1%d9%8a%d8%af%d8%a9-%d8%a7%d9%84%d9%86%d8%b5%d8%b1/)
-- [إطلاق كتاب أعمال تطبيقية لمادة منهجيات البرمجة وتقنياتها](https://tahadz.wordpress.com/2023/09/26/mtibook/)
 <!-- BLOG-POST-LIST:END -->
 </div>
 
