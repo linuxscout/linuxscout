@@ -3,8 +3,8 @@
 - 🔭 I’m always working on Arabic Natural Language processing
 - 💬 Ask me about arabic NLP
 - 👯 I’m looking to collaborate on Arabic NLP
-- 🤔 I’m looking for help with Andoroid and IOS applications
-- 🥅 2025 Goals: Contribute more to Open Source projects ( LanguageTool, إعراب الجمل)
+- 🤔 I’m looking for help with Android and IOS applications
+- 🥅 2026 Goals: Contribute more to Open Source projects ( Algerian Sign language, LanguageTool, إعراب الجمل)
 
 ### Connect with me:
 
