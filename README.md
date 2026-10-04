@@ -29,11 +29,11 @@
 <div dir="rtl">
 
 <!-- BLOG-POST-LIST:START -->
+- [الاهتمامات الاجتماعية في السير الذاتية](https://tahadz.wordpress.com/2026/10/04/%d8%a7%d9%84%d8%a7%d9%87%d8%aa%d9%85%d8%a7%d9%85%d8%a7%d8%aa-%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d8%a9-%d9%81%d9%8a-%d8%a7%d9%84%d8%b3%d9%8a%d8%b1-%d8%a7%d9%84%d8%b0%d8%a7%d8%aa/)
 - [كتاب “تعلّم البرمجة مع زكي”](https://tahadz.wordpress.com/2026/09/10/%d9%83%d8%aa%d8%a7%d8%a8-%d8%aa%d8%b9%d9%84%d9%91%d9%85-%d8%a7%d9%84%d8%a8%d8%b1%d9%85%d8%ac%d8%a9-%d9%85%d8%b9-%d8%b2%d9%83%d9%8a/)
 - [دليل المدرب في الملاعب الصغيرة](https://tahadz.wordpress.com/2026/09/10/%d8%af%d9%84%d9%8a%d9%84-%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%a8-%d9%81%d9%8a-%d8%a7%d9%84%d9%85%d9%84%d8%a7%d8%b9%d8%a8-%d8%a7%d9%84%d8%b5%d8%ba%d9%8a%d8%b1%d8%a9/)
 - [كتاب البيانات شبه المهيكلة &lpar;Semi-Structured Data&rpar;](https://tahadz.wordpress.com/2026/08/10/%d9%83%d8%aa%d8%a7%d8%a8-%d8%a7%d9%84%d8%a8%d9%8a%d8%a7%d9%86%d8%a7%d8%aa-%d8%b4%d8%a8%d9%87-%d8%a7%d9%84%d9%85%d9%87%d9%8a%d9%83%d9%84%d8%a9-semi-structured-data/)
 - [تقرير تقني: حل معضلة عرض الخطوط العربية داخل الأكواد البرمجية في LaTeX](https://tahadz.wordpress.com/2026/07/10/%d8%aa%d9%82%d8%b1%d9%8a%d8%b1-%d8%aa%d9%82%d9%86%d9%8a-%d8%ad%d9%84-%d9%85%d8%b9%d8%b6%d9%84%d8%a9-%d8%b9%d8%b1%d8%b6-%d8%a7%d9%84%d8%ae%d8%b7%d9%88%d8%b7-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9/)
-- [كتاب بنية الآلة 2، النسخة الإنجليزية](https://tahadz.wordpress.com/2024/04/02/%d9%83%d8%aa%d8%a7%d8%a8-%d8%a8%d9%86%d9%8a%d8%a9-%d8%a7%d9%84%d8%a2%d9%84%d8%a9-2%d8%8c-%d8%a7%d9%84%d9%86%d8%b3%d8%ae%d8%a9-%d8%a7%d9%84%d8%a5%d9%86%d8%ac%d9%84%d9%8a%d8%b2%d9%8a%d8%a9/)
 <!-- BLOG-POST-LIST:END -->
 </div>
 
